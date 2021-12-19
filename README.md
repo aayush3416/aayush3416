@@ -1,5 +1,7 @@
 - 👋 Hi, My name is Aayush Soni and I am Mechatronics Engineering Student at the Univerisity of Wateroo.
+
 - 👀 I’m interested in software development, AI, ML. 
+
 - 📫 How to reach me:
 
      Linkedin: https://www.linkedin.com/in/aayush-soni-8282bb200/
