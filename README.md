@@ -8,7 +8,7 @@
 
      Linkedin: https://www.linkedin.com/in/aayush-soni-8282bb200/
   
-     Website: https://aayush3416.github.io/website/
+     Website: https://aayushsoni.ca/
   
      Email: aayush.soni@uwaterloo.ca
 
