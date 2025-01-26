@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hi, My name is Aayush Soni and I am Mechatronics Engineering Student at the Univerisity of Waterloo. Currently working @ Super.com
+- 👋 Hi, My name is Aayush Soni and I am Mechatronics Engineering Student at the Univerisity of Waterloo. Currently seeking summer 2025 SWE Internships!
 
 - 👀 I’m interested in software development, AI, ML. 
 
